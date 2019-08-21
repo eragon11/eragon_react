@@ -1,1 +1,0 @@
-Hi all, This is my first react testing project for self-development.
